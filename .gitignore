@@ -1,3 +1,4 @@
 # Ignore dataset folder in SecondMethod directory
 /SecondMethod/dataset/
 /SecondMethod/dataset.zip
+/SecondMethod/dataset_old.zip
