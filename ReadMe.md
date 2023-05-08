@@ -42,37 +42,37 @@ Folder Structure:
 
 Project
 │   README.md
-│   LICENSE   
+│   CS445_final_project.jpynb   
 │
 └───Data
 │   │   
 │   └───video inputs
-│   │       original.mp4
-│   │       converted.zip
+│   │       
+│   │       
 │   │   
 │   └───city_dark_frames
-│   │   │   dark_images.zip
-│   │   │   hist_output.zip
-│   │   │   denoise_output.zip
-│   │   │   laplacian_output.zip
-│   │   │   hist_denoise_output.zip
-│   │   │   hist_denoise_laplacian_output.zip
-│   │   │   fake_video.mp4
-│   │   │   final_video.mp4
+│   │   │   dark_images
+│   │   │   hist_output
+│   │   │   denoise_output
+│   │   │   laplacian_output
+│   │   │   hist_denoise_output
+│   │   │   hist_denoise_laplacian_output
+│   │   │   fake_video
+│   │   │   final_video
 │   │   
 │   └───vangogh_frames
-│   │   │   vangogh_output.zip
-│   │   │   hist_output.zip
-│   │   │   denoise_output.zip
-│   │   │   laplacian_output.zip
-│   │   │   hist_denoise_output.zip
-│   │   │   hist_denoise_laplacian_output.zip
-│   │   │   vangogh_synthesized_video.mp4
-│   │   │   final_video.mp4
+│   │   │   vangogh_output
+│   │   │   hist_output
+│   │   │   denoise_output
+│   │   │   laplacian_output
+│   │   │   hist_denoise_output
+│   │   │   hist_denoise_laplacian_output
+│   │   │   vangogh_synthesized_video
+│   │   │   final_video
 │   │   
 │   └───map inputs
 │   │   │   original.png
-│   │   │   input.png
+│   │   │   
 │   │   
 │   └───map outputs
 │   │   │   output.png
