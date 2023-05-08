@@ -2,7 +2,7 @@ Project Title: Image-to-Image and Video-to-Video Translation using Pix2Pix and C
 
 Team Members: Santiago Valencia Sanchez, 
 
-Final Results: \href{https://www.youtube.com/shorts/hspKupwXvsM}{Pix2Pix} and \href{https://www.youtube.com/shorts/hspKupwXvsM}{CycleGAN}
+Final Results: https://www.youtube.com/shorts/hspKupwXvsM and https://www.youtube.com/shorts/hspKupwXvsM
 
 Overview:
 Our project explores the power of image-to-image and video-to-video translation using Pix2Pix and CycleGAN. We focused on three main areas of application: satellite-to-map images, facade segmentation, and artistic style transfer on videos.
