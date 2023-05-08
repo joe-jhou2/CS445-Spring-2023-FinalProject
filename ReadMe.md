@@ -39,6 +39,52 @@ Conclusion:
 Our project highlights the effectiveness of image-to-image and video-to-video translation using Pix2Pix and CycleGAN. By incorporating non-ML image processing methods, we were able to achieve better results with fewer resources. Our findings suggest that CycleGAN is a better choice for artistic style transfer and that Pix2Pix requires additional processing techniques for video output.
 
 Folder Structure:
+
+Project
+│   README.md
+│   LICENSE   
+│
+└───Data
+│   │   
+│   └───video inputs
+│   │       original.mp4
+│   │       converted.zip
+│   │   
+│   └───city_dark_frames
+│   │   │   dark_images.zip
+│   │   │   hist_output.zip
+│   │   │   denoise_output.zip
+│   │   │   laplacian_output.zip
+│   │   │   hist_denoise_output.zip
+│   │   │   hist_denoise_laplacian_output.zip
+│   │   │   fake_video.mp4
+│   │   │   final_video.mp4
+│   │   
+│   └───vangogh_frames
+│   │   │   vangogh_output.zip
+│   │   │   hist_output.zip
+│   │   │   denoise_output.zip
+│   │   │   laplacian_output.zip
+│   │   │   hist_denoise_output.zip
+│   │   │   hist_denoise_laplacian_output.zip
+│   │   │   vangogh_synthesized_video.mp4
+│   │   │   final_video.mp4
+│   │   
+│   └───map inputs
+│   │   │   original.png
+│   │   │   input.png
+│   │   
+│   └───map outputs
+│   │   │   output.png
+│   │   │   final_image.png
+│   │   
+│   └───video output Pix2Pix
+│   │       best_video.mp4
+│   │   
+│   └───video output cycleGANs
+│           best_vangogh_video.mp4
+
+
 Project
 |-- Data
 |   |-- video inputs: includes original video clips (mp4 files) and their frames after converting the video into image (zip files)
