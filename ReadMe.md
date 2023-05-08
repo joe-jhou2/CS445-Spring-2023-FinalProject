@@ -47,8 +47,7 @@ Project
 └───Data
 │   │   
 │   └───video inputs
-│   │       
-│   │       
+│   │            
 │   │   
 │   └───city_dark_frames
 │   │   │   dark_images
@@ -60,6 +59,7 @@ Project
 │   │   │   fake_video
 │   │   │   final_video
 │   │   
+│   │  
 │   └───vangogh_frames
 │   │   │   vangogh_output
 │   │   │   hist_output
@@ -70,17 +70,20 @@ Project
 │   │   │   vangogh_synthesized_video
 │   │   │   final_video
 │   │   
+│   │  
 │   └───map inputs
 │   │   │   original.png
-│   │   │   
+│   │  
 │   │   
 │   └───map outputs
 │   │   │   output.png
 │   │   │   final_image.png
 │   │   
+│   │  
 │   └───video output Pix2Pix
 │   │       best_video.mp4
 │   │   
+│   │  
 │   └───video output cycleGANs
 │           best_vangogh_video.mp4
 
