@@ -1,6 +1,6 @@
 Project Title: Image-to-Image and Video-to-Video Translation using Pix2Pix and CycleGAN
 
-Team Members: Santiago Valencia Sanchez, 
+Team Members: Santiago Valencia Sanchez, Jue Hou, Nikhil Khandekar, Azaan Barlas
 
 Final Results: https://www.youtube.com/shorts/hspKupwXvsM and https://www.youtube.com/shorts/hspKupwXvsM
 
