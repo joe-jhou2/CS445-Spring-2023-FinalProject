@@ -2,13 +2,17 @@
 Image-to-Image and Video-to-Video Translation using Pix2Pix and CycleGAN
 
 ## Team Members
-Santiago Valencia Sanchez
-Jue Hou
-Nikhil Khandekar
+Santiago Valencia Sanchez \
+Jue Hou \
+Nikhil Khandekar \
 Azaan Barlas
 
 ## Final Results
-https://www.youtube.com/shorts/hspKupwXvsM and https://www.youtube.com/shorts/hspKupwXvsM
+Videos: \
+https://www.youtube.com/shorts/hspKupwXvsM \
+https://www.youtube.com/shorts/hspKupwXvsM \
+Paper: [CS445 Final Project Report](https://github.com/juehoujhou4/CS445-Spring-2023-FinalProject/files/13774260/CS445_Final_Project_Report.2.pdf)
+
 
 ## Overview
 Our project explores the power of image-to-image and video-to-video translation using Pix2Pix and CycleGAN. We focused on three main areas of application: satellite-to-map images, facade segmentation, and artistic style transfer on videos.
