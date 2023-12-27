@@ -49,53 +49,51 @@ Our project highlights the effectiveness of image-to-image and video-to-video tr
 
 ## Folder Structure:
 
-'''
 Project
 │   README.md
 │   CS445_final_project.jpynb   
 │
-│
 └───Data
-│   │   
-│   │  
-│   └───video inputs
-│   │            
-│   │   
-│   └───city_dark_frames
-│   │   │   dark_images
-│   │   │   hist_output
-│   │   │   denoise_output
-│   │   │   laplacian_output
-│   │   │   hist_denoise_output
-│   │   │   hist_denoise_laplacian_output
-│   │   │   fake_video
-│   │   │   final_video
-│   │   
-│   │  
-│   └───vangogh_frames
-│   │   │   vangogh_output
-│   │   │   hist_output
-│   │   │   denoise_output
-│   │   │   laplacian_output
-│   │   │   hist_denoise_output
-│   │   │   hist_denoise_laplacian_output
-│   │   │   vangogh_synthesized_video
-│   │   │   final_video
-│   │   
-│   │  
-│   └───map inputs
-│   │   │   original.png
-│   │  
-│   │   
-│   └───map outputs
-│   │   │   output.png
-│   │   │   final_image.png
-│   │   
-│   │  
-│   └───video output Pix2Pix
-│   │       best_video.mp4
-│   │   
-│   │  
-│   └───video output cycleGANs
-│           best_vangogh_video.mp4
-'''
+    │   
+    │  
+    └───video inputs
+    │            
+    │   
+    └───city_dark_frames
+    │   │   dark_images
+    │   │   hist_output
+    │   │   denoise_output
+    │   │   laplacian_output
+    │   │   hist_denoise_output
+    │   │   hist_denoise_laplacian_output
+    │   │   fake_video
+    │   │   final_video
+    │   
+    │  
+    └───vangogh_frames
+    │   │   vangogh_output
+    │   │   hist_output
+    │   │   denoise_output
+    │   │   laplacian_output
+    │   │   hist_denoise_output
+    │   │   hist_denoise_laplacian_output
+    │   │   vangogh_synthesized_video
+    │   │   final_video
+    │   
+    │  
+    └───map inputs
+    │   │   original.png
+    │  
+    │   
+    └───map outputs
+    │   │   output.png
+    │   │   final_image.png
+    │   
+    │  
+    └───video output Pix2Pix
+        │   best_video.mp4
+    │   
+    │  
+    └───video output cycleGANs
+            best_vangogh_video.mp4
+
