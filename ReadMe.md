@@ -49,6 +49,7 @@ Our project highlights the effectiveness of image-to-image and video-to-video tr
 
 ## Folder Structure:
 
+~~~ 
 Project
 │   README.md
 │   CS445_final_project.jpynb   
@@ -96,4 +97,4 @@ Project
     │  
     └───video output cycleGANs
             best_vangogh_video.mp4
-
+~~~ 
