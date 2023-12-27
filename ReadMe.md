@@ -2,7 +2,7 @@
 Image-to-Image and Video-to-Video Translation using Pix2Pix and CycleGAN
 
 ## Final Results
-Paper: [CS445 Final Project Report](https://github.com/juehoujhou4/CS445-Spring-2023-FinalProject/files/13774260/CS445_Final_Project_Report.2.pdf) \ 
+Paper: [CS445 Final Project Report](https://github.com/juehoujhou4/CS445-Spring-2023-FinalProject/files/13774260/CS445_Final_Project_Report.2.pdf) \
 Videos: https://www.youtube.com/shorts/hspKupwXvsM \
 https://www.youtube.com/shorts/hspKupwXvsM \
 
