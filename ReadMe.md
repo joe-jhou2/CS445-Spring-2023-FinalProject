@@ -2,6 +2,10 @@
 Image-to-Image and Video-to-Video Translation using Pix2Pix and CycleGAN
 
 ## Final Results
+Image outputs for satellite-to-map generation:
+![image](https://github.com/juehoujhou4/CS445-Spring-2023-FinalProject/assets/60245179/11907767-2fc5-4f46-a18f-ccef4fb4ecc5)
+Image outputs for artistic image style transfers:
+![image](https://github.com/juehoujhou4/CS445-Spring-2023-FinalProject/assets/60245179/fb52b82a-a773-4074-8515-5898ec42c427)
 Paper: [CS445 Final Project Report](https://github.com/juehoujhou4/CS445-Spring-2023-FinalProject/files/13774260/CS445_Final_Project_Report.2.pdf) \
 Videos: https://www.youtube.com/shorts/hspKupwXvsM \
 https://www.youtube.com/shorts/hspKupwXvsM \
